@@ -1,2 +1,2 @@
 # hektor
-CRUD Generator
+CRUD generator
